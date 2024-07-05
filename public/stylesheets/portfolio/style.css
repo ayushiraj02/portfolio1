@@ -568,6 +568,10 @@ span:hover {
     border: .2rem solid var(--main-color);
 }
 
+.aboutimg{
+    background-position: center;
+}
+
 .about-img .circle-spin {
     position: absolute;
     top: 50%;
